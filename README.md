@@ -1,4 +1,26 @@
 # fitness-tracker-data-analysis
+fitness-tracker-data-analysis
+│
+├── data
+│   ├── dailyActivity_merged.csv
+│   ├── dailyIntensities_merged.csv
+│   ├── sleepDay_merged.csv
+│   ├── weightLogInfo_merged.csv
+│   └── fitness_tracker_final.csv
+│
+├── notebooks
+│   ├── Fitness tracker.ipynb
+│
+├── sql
+│   ├── fitness_tracker_queries.sql
+│
+├── dashboards
+│   └── Fitness tracker user behaviour analysis.pbix
+│
+├── report
+│   └── fitness tracker data analysis.pdf
+│
+└── README.md
 Project Overview
 This project analyzes fitness tracker data to understand user behavior related to physical activity, sleep patterns, and BMI.
 The goal is to extract insights that can help fitness applications improve user engagement and provide better health recommendations.
